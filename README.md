@@ -26,7 +26,6 @@ notes-backend/
 ├── validations/         # Yup validation schemas
 ├── db.js                # MongoDB connection setup
 ├── server.js            # Entry point
-├── .env                 # Environment variables
 └── package.json
 ```
 
