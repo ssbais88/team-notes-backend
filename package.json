@@ -2,6 +2,7 @@
   "name": "notes-backend",
   "version": "1.0.0",
   "description": "Notes backend for digitq assignment",
+  "type": "commonjs",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,6 +14,7 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
-    "mongoose": "^8.16.4"
+    "mongoose": "^8.16.4",
+    "yup": "^1.6.1"
   }
 }

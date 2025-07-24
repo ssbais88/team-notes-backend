@@ -14,13 +14,6 @@ A RESTful API built with **Node.js**, **Express.js**, and **MongoDB (Mongoose)**
 
 ---
 
-## 🔗 Live API
-
-Hosted on **Render** (or Heroku):  
-👉 https://your-backend-service.onrender.com
-
----
-
 ## 🛠️ Features
 
 - ✅ Create, read, update, and delete notes
@@ -46,5 +39,5 @@ Hosted on **Render** (or Heroku):
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/team-notes-backend.git
+git clone https://github.com/ssbais88/team-notes-backend.git
 cd team-notes-backend
