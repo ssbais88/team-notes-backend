@@ -1,8 +1,6 @@
-// config.js
 const dotenv = require("dotenv");
 const yup = require("yup");
 
-// Load .env file
 dotenv.config();
 
 // Define the validation schema
@@ -25,7 +23,6 @@ try {
   process.exit(1); // Exit the process if validation fails
 }
 
-// Export validated and typed environment variables
 module.exports = {
   PORT: env.PORT,
   MONGO_URI: env.MONGO_URI,
